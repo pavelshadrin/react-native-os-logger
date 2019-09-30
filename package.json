@@ -7,8 +7,8 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-os-logger.git",
-    "baseUrl": "https://github.com/github_account/react-native-os-logger"
+    "url": "https://github.com/pavelshadrin/react-native-os-logger.git",
+    "baseUrl": "https://github.com/pavelshadrin/react-native-os-logger"
   },
   "keywords": [
     "react-native"
