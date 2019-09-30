@@ -1,7 +1,7 @@
 {
   "name": "react-native-os-logger",
   "title": "React Native OS Logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Brings os_log to React Native",
   "main": "index.js",
   "scripts": {},
