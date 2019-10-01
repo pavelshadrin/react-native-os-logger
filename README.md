@@ -28,6 +28,5 @@ Only the default log level is now supported – it's fine for debug purposes. Th
 ```javascript
 import OsLogger from 'react-native-os-logger';
 
-// TODO: What to do with the module?
-OsLogger;
+OsLogger.logDefault('LOG MESSAGE');
 ```
