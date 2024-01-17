@@ -30,3 +30,10 @@ import OsLogger from 'react-native-os-logger';
 
 OsLogger.logDefault('LOG MESSAGE');
 ```
+
+## Jest
+```javascript
+jest.mock('react-native-os-logger', () => {
+  return { logDefault: jest.fn() };
+});
+```
